@@ -1,0 +1,25 @@
+Kappa + Kappa + Kappa - JACKPOT! +150 Points! $addpoints("$user","150","150","","Something went wrong... Ask iBounce to manually add the points!")
+Kappa + PogChamp + Kappa - So close! +50 Points! $addpoints("$user","50","50","","Something went wrong... Ask iBounce to manually add the points!")
+BabyRage + BabyRage + BabyRage - Damn... -30 Points! $removepoints("$user","30","30","","Something went wrong... You got lucky this time...","true")
+PogChamp + PogChamp + PogChamp - Supa Hot Fire! +80 Points! $addpoints("$user","80","80","","Something went wrong... Ask iBounce to manually add the points!")
+PJSalt + PJSalt + PJSalt - Salty or nah? -50 Points! $removepoints("$user","50","50","","Something went wrong... You got lucky this time...","true")
+SSSsss + SSSsss + SSSsss - Ssssssss... - +10 Points! $addpoints("$user","10","10","","Something went wrong... Ask iBounce to manually add the points!")
+SSSsss + PJSalt + PogChamp - Not this time. +0 Points!
+BabyRage + Kappa + BloodTrail - LOL. +0 Points!
+BloodTrail + BloodTrail + SSSsss - Hm. +0 Points!
+Kappa + PogChamp + Kappa - So close! +50 Points! $addpoints("$user","50","50","","Something went wrong... Ask iBounce to manually add the points!")
+BabyRage + BabyRage + BabyRage - Damn... -30 Points! $removepoints("$user","30","30","","Something went wrong... You got lucky this time...","true")
+PogChamp + PogChamp + PogChamp - Supa Hot Fire! +80 Points! $addpoints("$user","80","80","","Something went wrong... Ask iBounce to manually add the points!")
+PJSalt + PJSalt + PJSalt - Salty or nah? -50 Points! $removepoints("$user","50","50","","Something went wrong... You got lucky this time...","true")
+SSSsss + SSSsss + SSSsss - Ssssssss... - +10 Points! $addpoints("$user","10","10","","Something went wrong... Ask iBounce to manually add the points!")
+SSSsss + PJSalt + PogChamp - Not this time. +0 Points!
+BabyRage + Kappa + BloodTrail - LOL. +0 Points!
+BloodTrail + BloodTrail + SSSsss - Hm. +0 Points!
+Kappa + PogChamp + Kappa - So close! +50 Points! $addpoints("$user","50","50","","Something went wrong... Ask iBounce to manually add the points!")
+BabyRage + BabyRage + BabyRage - Damn... -30 Points! $removepoints("$user","30","30","","Something went wrong... You got lucky this time...","true")
+PogChamp + PogChamp + PogChamp - Supa Hot Fire! +80 Points! $addpoints("$user","80","80","","Something went wrong... Ask iBounce to manually add the points!")
+PJSalt + PJSalt + PJSalt - Salty or nah? -50 Points! $removepoints("$user","50","50","","Something went wrong... You got lucky this time...","true")
+SSSsss + SSSsss + SSSsss - Ssssssss... - +10 Points! $addpoints("$user","10","10","","Something went wrong... Ask iBounce to manually add the points!")
+SSSsss + PJSalt + PogChamp - Not this time. +0 Points!
+BabyRage + Kappa + BloodTrail - LOL. +0 Points!
+BloodTrail + BloodTrail + SSSsss - Hm. +0 Points!

@@ -1,0 +1,21 @@
+/me Dealers Hand: 6♦ 6♣ 5♣ // Your Hand: 9♠ A♠! // 20! +1000 Skrill! $addpoints("$user","1000","1000","","Something went wrong... Ask iBounce to manually add the points!")
+/me Dealers Hand: 6♦ 8♣ 5♣ // Your Hand: 5♠ 5♠ 8♣! // BUST! -1000 Skrill! $removepoints("$user","1000","1000","","Something went wrong... You got lucky this time...","true")
+/me Dealers Hand: 9♥ 9♠ // Your Hand: A♣ J♣! // 21! BJ! +2000 Skrill! $addpoints("$user","2000","2000","","Something went wrong... Ask iBounce to manually add the points!")
+/me Dealers Hand: A♣ J♣ // Your Hand: 2♣ 3♣ 9♠ 9♥ // BUST! -2000 Skrill! $removepoints("$user","2000","2000","","Something went wrong... You got lucky this time...","true")
+/me Dealers Hand: Q♣ A♣ // Your Hand: 6♣ 2♣ 5♠ 9♥ // BUST! -1000Points! $removepoints("$user","1000","1000","","Something went wrong... You got lucky this time...","true")
+/me Dealers Hand: 9♦ 7♣ 5♣ // Your Hand: 9♠ A♠! // 20! +1000 Skrill! $addpoints("$user","1000","1000","","Something went wrong... Ask iBounce to manually add the points!")
+/me Dealers Hand: 9♦ 9♣ // Your Hand: 5♠ 5♠ 8♥! // 18! PUSH! +0 Skrill
+/me Dealers Hand: 6♦ 6♣ 5♣ // Your Hand: 9♠ A♠! // 20! +1000 Skrill! $addpoints("$user","1000","1000","","Something went wrong... Ask iBounce to manually add the points!")
+/me Dealers Hand: 6♦ 8♣ 5♣ // Your Hand: 5♠ 5♠ 8♣! // BUST! -1000 Skrill! $removepoints("$user","1000","1000","","Something went wrong... You got lucky this time...","true")
+/me Dealers Hand: A♥ K♠ // Your Hand: A♣ J♣! // 21! BJ! +2000 Skrill! $addpoints("$user","2000","2000","","Something went wrong... Ask iBounce to manually add the points!")
+/me Dealers Hand: A♣ J♣ // Your Hand: 2♣ 3♣ 9♠ 9♥ // BUST! -1000 Skrill! $removepoints("$user","1000","1000","","Something went wrong... You got lucky this time...","true")
+/me Dealers Hand: Q♣ A♣ // Your Hand: 6♣ 2♣ 5♠ 9♥ // BUST! -2000 Points! $removepoints("$user","2000","2000","","Something went wrong... You got lucky this time...","true")
+/me Dealers Hand: 9♦ 7♣ 5♣ // Your Hand: 9♠ A♠! // 20! +1000 Skrill! $addpoints("$user","1000","1000","","Something went wrong... Ask iBounce to manually add the points!")
+/me Dealers Hand: 9♦ 9♣ // Your Hand: 5♠ 5♠ 8♥! // 18! PUSH! +0 Skrill
+/me Dealers Hand: 6♦ 6♣ 5♣ // Your Hand: 9♠ A♠! // 20! +2000 Skrill! $addpoints("$user","2000","2000","","Something went wrong... Ask iBounce to manually add the points!")
+/me Dealers Hand: 6♦ 8♣ 5♣ // Your Hand: 5♠ 5♠ 8♣! // BUST! -1000 Skrill! $removepoints("$user","1000","1000","","Something went wrong... You got lucky this time...","true")
+/me Dealers Hand: 9♥ 6♠ // Your Hand: A♣ K♣! // 21! BJ! +3000 Skrill! $addpoints("$user","3000","3000","","Something went wrong... Ask iBounce to manually add the points!")
+/me Dealers Hand: A♣ J♣ // Your Hand: 2♣ 3♣ 8♠ 9♥ // BUST! -2000 Skrill! $removepoints("$user","2000","2000","","Something went wrong... You got lucky this time...","true")
+/me Dealers Hand: Q♣ A♣ // Your Hand: 6♣ 2♣ 5♠ 9♥ // BUST! -1000 Points! $removepoints("$user","1000","1000","","Something went wrong... You got lucky this time...","true")
+/me Dealers Hand: 9♦ 7♣ 5♣ // Your Hand: 9♠ A♠! // 20! +1000 Skrill! $addpoints("$user","1000","1000","","Something went wrong... Ask iBounce to manually add the points!")
+/me Dealers Hand: 9♦ 9♣ // Your Hand: 4♠ 6♠ 8♥! // 18! PUSH! +0 Skrill
