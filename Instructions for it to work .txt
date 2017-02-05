@@ -1,0 +1,7 @@
+For the Slots Command put this into Ahnkbot Commands $user Pulls the Handle and Spins $readrandline(WHERE YOU SAVED THE FILE)  EX $user Pulls the Handle and Spins $readrandline(F:\Twitch\Bot Commands\slot.txt)  
+
+for BlackJack Command Put this into Ahnkbot Commands $user Pulls the Handle and Spins $readrandline(WHERE YOU SAVED THE FILE) EX $user Pulls the Handle and Spins $readrandline(F:\Twitch\Bot Commands\slot.txt)  
+
+For the Love Command put htis into Ahnkbot Commands /me $user Loves $target $readrandline(WHERE YOU SAVED THE FILE) Ex /me $user Loves $target $readrandline(F:\Twitch\Bot Commands\love.txt)
+
+the rest are pretty much the same adding a $readrandline (WHERE YOU SAVED THE FILE) you can add anything before it to make it your own!
